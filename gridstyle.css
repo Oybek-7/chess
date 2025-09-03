@@ -14,3 +14,10 @@
 .box3{
     background-color: black;
 }
+
+
+.card{
+    widows: 100px;
+    height: 200px;
+    background-color: red;
+}
